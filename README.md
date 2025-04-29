@@ -91,14 +91,21 @@ To uncover patterns in customer behavior and sales, I used Power BI’s Smart Cl
 
 ---
 
-## Key Learnings
+## Recommendations & Business Insights
 
-This project helped reinforce:
+Based on the analysis from this Power BI project, here are several strategic insights Maven Cycles could act on:
 
-- Translating business requirements into visual analytics
-- Building efficient and scalable data models
-- Advanced Power BI features like Key Influencers & Clustering
-- Communicating insights clearly through dashboards
+- **Focus on Accessories**: Accessories not only have the highest average quantity sold but also strongly influence sales growth. Prioritize inventory, bundling, and promotions in this category.
+
+- **Target High-Volume Segments**: Clustering analysis identified a high-value customer segment placing large orders. Personalized marketing or loyalty programs could retain and grow this group.
+
+- **Optimize Regional Strategy**: The majority of orders come from the “Other” region group. Investigate what areas this includes and consider regional promotions or expansion based on this demand.
+
+- **Improve Inventory for High-Selling Products**: Products like bike tubes and kits consistently appear in top-selling categories. Ensure stock levels align with demand to avoid lost sales.
+
+- **Leverage Gender & Age Data**: Use demographic segmentation to tailor marketing. For example, if younger customers favor specific products, align campaigns accordingly.
+
+- **Monitor Quantity_Sold Trends Over Time**: Use time-based clustering to detect seasonal patterns and adjust stock or promotions accordingly.
 
 ---
 
